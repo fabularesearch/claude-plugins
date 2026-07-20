@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fabularesearch",
+  "owner": {
+    "name": "Fabula",
+    "email": "support@fabularesearch.org",
+    "url": "https://fabularesearch.org"
+  },
+  "description": "Plugins published by Fabula, a tiny research lab exploring the application of narrative theory to AI safety",
+  "plugins": [
+    {
+      "name": "stiri",
+      "source": {
+        "source": "github",
+        "repo": "fabularesearch/stiri",
+        "ref": "main"
+      },
+      "description": "Rapid experiments in representation engineering (RepE).",
+      "category": "development",
+      "keywords": ["representation-engineering", "interpretability", "alignment", "probing", "steering", "llm"],
+      "strict": true
+    }
+  ]
+}
