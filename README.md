@@ -1,6 +1,6 @@
 # Fabula Claude Code Plugins
 
-A self-hosted [Claude Code](https://claude.ai/claude-code) plugin marketplace, serving as a directory of plugins associated with our research tools.
+A self-hosted Claude Code plugin marketplace, serving as a directory of plugins associated with our research tools.
 
 ## Setup
 
