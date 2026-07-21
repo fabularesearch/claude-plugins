@@ -6,7 +6,7 @@
     "email": "support@fabularesearch.org",
     "url": "https://fabularesearch.org"
   },
-  "description": "Plugins published by Fabula, a tiny research lab exploring the application of narrative theory to AI safety",
+  "description": "Plugins published by Fabula, a tiny research lab working on AI safety",
   "plugins": [
     {
       "name": "stiri",
